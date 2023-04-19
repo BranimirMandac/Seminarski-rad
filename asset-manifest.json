@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Seminarski-rad/static/css/main.c5173ee1.css",
+    "main.js": "/Seminarski-rad/static/js/main.a2c4cc01.js",
+    "index.html": "/Seminarski-rad/index.html",
+    "main.c5173ee1.css.map": "/Seminarski-rad/static/css/main.c5173ee1.css.map",
+    "main.a2c4cc01.js.map": "/Seminarski-rad/static/js/main.a2c4cc01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5173ee1.css",
+    "static/js/main.a2c4cc01.js"
+  ]
+}
